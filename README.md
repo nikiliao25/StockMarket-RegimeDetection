@@ -1,1 +1,2 @@
-# StockMarrket-Predictor
+## Team Members
+Niki Liao
